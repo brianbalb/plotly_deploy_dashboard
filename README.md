@@ -1,5 +1,7 @@
 # plotly_deploy_dashboard
 
+Please visit finished work here: https://brianbalb.github.io/plotly_deploy_dashboard/
+
 # Project Overview
 
 As requested by client Roza, the objective is to create an interative dashboard dirplaying demographic information and bacterial data for each volunteer in her study. 
@@ -19,10 +21,9 @@ Target Objectives
 * HTML & CSS
 * Bootstrap
 
-## Preview (Find Resource Folder)
+## Dashboard Preview
 
-Dashbard Images
-![](https://github.com/brianbalb/plotly_deploy_dashboard/blob/main/Resources/bubble_graph.png)
 ![](https://github.com/brianbalb/plotly_deploy_dashboard/blob/main/Resources/dashboard.png)
+![](https://github.com/brianbalb/plotly_deploy_dashboard/blob/main/Resources/bubble_graph.png)
 
 Please visit finished work here: https://brianbalb.github.io/plotly_deploy_dashboard/
