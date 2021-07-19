@@ -19,4 +19,10 @@ Target Objectives
 * HTML & CSS
 * Bootstrap
 
+## Preview (Find Resource Folder)
+
+Dashbard Images
+
+(Resources/bubble_graph.png)
+
 Please visit finished work here: https://brianbalb.github.io/plotly_deploy_dashboard/
