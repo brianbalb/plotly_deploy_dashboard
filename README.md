@@ -23,6 +23,6 @@ Target Objectives
 
 Dashbard Images
 
-(Resources/bubble_graph.png)
+(Resources/bubble_graph.png) https://github.com/brianbalb/plotly_deploy_dashboard/blob/main/Resources/bubble_graph.png
 
 Please visit finished work here: https://brianbalb.github.io/plotly_deploy_dashboard/
